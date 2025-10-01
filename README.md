@@ -9,6 +9,6 @@ I really love and enjoy cinema, so I chose movies as the theme for this project.
 The project reads IMDb datasets (currently title.basics and title.ratings, which can always be downloaded from the official IMDb link above) and uses them to create dynamic interactive charts. Data cleaning and preprocessing are handled with pandas and NumPy, while the visualizations are built with Dash and Plotly. The charts allow exploring relationships between movie ratings, popularity, durations and genres through the years.
 
 <p align="center">
-  <img src="images/top400_action_films.png" alt="Описание" width="500"> 
-  <img src="images/runtime_by_genre.png" alt="Описание" width="500"> 
+  <img src="images/top400_action_films.png" alt="Top 400 Action Films" width="500"> 
+  <img src="images/runtime_by_genre.png" alt="Runtime by Genre" width="500"> 
 </p>
