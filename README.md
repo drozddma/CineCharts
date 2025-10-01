@@ -1,5 +1,5 @@
 # CineCharts
-CineCharts is a python data visualization project built with [IMDb public datasets](https://datasets.imdbws.com/).
+CineCharts is a data visualization project built with [IMDb public datasets](https://datasets.imdbws.com/).
 It provides interactive and dynamic charts about movies, using mainly Dash and Plotly.
 
 # Motivation
